@@ -47,6 +47,46 @@ table {
 	border-spacing: 0;
 }
 
+body {
+	max-width: 960px;
+	padding: 50px;
+	font-family: 'Arimo', sans-serif;
+
+}
+/* Header */
+header {
+	justify-content: space-between;
+}
+
+.info {
+	text-align: center;
+	display: inline-block;
+	float: right;
+	text-align: end;
+}
+
+h1 {
+	display: inline-block;
+	float: left;
+	font-size: xx-large;
+	font-family: 'Arimo:700';
+	font-weight: bold;
+
+}
+
+h1, h2, h3 {
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+
 .font {
 	font-family: 'Arimo', sans-serif;
+	justify-content: space-between;
+}
+
+.header {
+	border-bottom: 3px solid black;
+	padding-bottom: 90px;
+
 }
