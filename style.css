@@ -55,7 +55,12 @@ body {
 	border-right: 30px solid lightgray;
 	z-index: 2;
 }
-/*Education and Skills*/
+/* Work Experience. Mostly reused code from education section */
+.work {
+	text-align: center;
+	padding-top: 20px;
+}
+/*Education and Skills. Also used in Work section*/
 .edu {
 	padding: 20px;
 	text-align: center;
