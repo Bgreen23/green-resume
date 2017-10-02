@@ -1,0 +1,5 @@
+#ignore microsoft word documents
+
+*.doc
+*.docx
+*.rtf
